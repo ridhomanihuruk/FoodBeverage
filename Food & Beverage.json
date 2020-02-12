@@ -1,0 +1,148 @@
+{
+  "directory": [
+    {
+      "number": 1,
+      "name": "Fore Coffee",
+      "level": 1,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 2,
+      "name": "Starbuck Reserve",
+      "level": 1,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 3,
+      "name": "Prime Angus House",
+      "level": 1,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 4,
+      "name": "Shabu Shabu House",
+      "level": 1,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 5,
+      "name": "Gunpowder",
+      "level": 1,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 6,
+      "name": "Cork & Screw",
+      "level": 1,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 7,
+      "name": "Nespresso",
+      "level": 1,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 8,
+      "name": "Bebek Bengil",
+      "level": 2,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 9,
+      "name": "Kitchenette",
+      "level": 2,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 10,
+      "name": "Sushi Hiro",
+      "level": 2,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 11,
+      "name": "Benihana",
+      "level": 3,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 12,
+      "name": "En Dining",
+      "level": 3,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 13,
+      "name": "Senju",
+      "level": 3,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 14,
+      "name": "Sushi Tei",
+      "level": 3,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 15,
+      "name": "KOI The Cafe",
+      "level": 4,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 16,
+      "name": "Madame Lily",
+      "level": 4,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 17,
+      "name": "Pizza e Birra",
+      "level": 4,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 18,
+      "name": "Starbuck Coffee",
+      "level": 4,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 19,
+      "name": "Eatlah",
+      "level": 5,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 20,
+      "name": "Kafe Betawi",
+      "level": 5,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 21,
+      "name": "Ta Wan",
+      "level": 5,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 22,
+      "name": "Sate Khas Senayan",
+      "level": 5,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 23,
+      "name": "Zenbu",
+      "level": 5,
+      "type": "Food & Beverage"
+    },
+    {
+      "number": 24,
+      "name": "QQ Kopitiam",
+      "level": 5,
+      "type": "Food & Beverage"
+    },
+  ]
+}
